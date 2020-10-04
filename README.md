@@ -8,10 +8,7 @@ A 3d Starfox-like shooting game. Utilises react-three-fiber + recoil to handle t
 
 ### How do I use it?
 
-| How Do I...             | ...by running this     |
-| ----------------------- | ---------------------- |
-| Run a dev server?       | `yarn start`           |
-| Run my tests?           | `yarn test`            |
-| Compile for production? | `yarn build`           |
-| Start Storybook?        | `yarn storybook`       |
-| Build Storybook?        | `yarn build-storybook` |
+| How Do I...             | ...by running this |
+| ----------------------- | ------------------ |
+| Run a dev server?       | `yarn start`       |
+| Compile for production? | `yarn build`       |
