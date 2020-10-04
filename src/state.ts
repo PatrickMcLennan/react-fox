@@ -1,0 +1,25 @@
+import { atom } from "recoil";
+import { RGBA_ASTC_10x10_Format } from "three";
+
+export const shipPositionState = atom({
+  key: `shipPosition`,
+  default: { position: {}, rotation: {} },
+});
+
+export const enemyPositionState = atom({
+  key: `enemyPosition`,
+  default: [
+    { x: -10, y: 10, z: -80 },
+    { x: 20, y: 0, z: -100 },
+  ],
+});
+
+export const laserPositionState = atom({
+  key: `laserPositions`,
+  default: [],
+});
+
+export const scoreState = atom({
+  key: `score`,
+  default: 0,
+});
