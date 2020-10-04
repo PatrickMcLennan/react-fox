@@ -4,7 +4,7 @@ This was bootstrapped with my [create-treact-app](https://www.github.com/Patrick
 
 ## What is this?
 
-A 3d Starfox-like shooting game. Utilises react-three-fiber + recoil to handle the visuals and state management.
+A 3d Starfox-like shooting game. Utilises react-three-fiber + recoil to handle the visuals and state management. It's still a work in progress, and once completed will undergo a fairly significant refactor.
 
 ### How do I use it?
 
